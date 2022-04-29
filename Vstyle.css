@@ -234,3 +234,25 @@
     color: #545454;
     letter-spacing: .001vmin;
 }
+
+.Ah2m1i1 {
+    height: 20%;
+    width: 6.809732741%;
+    position: absolute;
+    left: 4.55291782%;
+    background-image: url(https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/assets/FriendsIcon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.Ah2m2i1 {
+    height: 20%;
+    width: 6.809732741%;
+    position: absolute;
+    left: 4.55291782%;
+    background-image: url(https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/assets/ProfilesIcon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
